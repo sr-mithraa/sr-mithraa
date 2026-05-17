@@ -1,9 +1,15 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=220&section=header&text=Mithra&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Creativity%20%7C%20Development&descAlignY=55" />
+</p>
 <h1 align="center">
   Hey there 👋 
 </h1>
 <h1 align="center">
   I'm Mithra..!🤍
 </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&italic=true&size=26&pause=1000&color=FF4D8D&center=true&vCenter=true&width=700&lines=Thank+You+For+Stopping+By+%F0%9F%8C%B8;Hope+You+Like+What+You+See+%E2%9C%A8;Just+A+Curious+Mind+Building+With+Code+%F0%9F%92%AB" />
+</p>
 
 <h3 align="center">
   AI & Data Science Student • Developer • Crafting my own space in Tech
