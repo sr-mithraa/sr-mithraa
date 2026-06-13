@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mithra%20S.%20R.-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithra-s-r-36b40a144/)
 [![Gmail](https://img.shields.io/badge/Gmail-srmithraa%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srmithraa@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-sr--mithraa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sr-mithraa)
-[![CGPA](https://img.shields.io/badge/CGPA-8.78%20%2F%2010-7C3AED?style=for-the-badge&logo=academia&logoColor=white)](#)
+[![CGPA](https://img.shields.io/badge/CGPA-8.89%20%2F%2010-7C3AED?style=for-the-badge&logo=academia&logoColor=white)](#)
 <img src="https://komarev.com/ghpvc/?username=sr-mithraa&label=Profile+Views&color=22D3EE&style=for-the-badge" />
 
 <br/><br/>
