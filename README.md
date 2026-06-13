@@ -1,122 +1,300 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:FF4D8D,50:FF6B81,100:FFC0CB&text=Mithra%20S%20R&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Creativity%20%7C%20Code%20%7C%20Curiosity&descAlignY=58&descSize=18" />
-</p>
+<div align="center">
 
-<h1 align="center">Hey there 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=S.%20R.%20Mithra&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20GenAI%20Explorer%20%E2%80%A2%20Computer%20Vision%20Builder&descAlignY=56&descSize=17" />
 
-<h1 align="center">
-  I'm Mithra..! 🩷🌷
-</h1>
+<br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&italic=true&size=26&pause=1000&color=FF89C2&center=true&vCenter=true&width=750&lines=Thank+You+For+Stopping+By+%F0%9F%8C%B8;Hope+You+Like+What+You+See+%E2%9C%A8;Just+A+Curious+Mind+Building+With+Code+%F0%9F%92%AB" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=22D3EE&center=true&vCenter=true&width=680&lines=B.Tech+Graduate+%E2%80%94+AI+%26+Data+Science+%E2%9C%85;Currently+diving+deep+into+Generative+AI+%F0%9F%A4%96;Computer+Vision+%7C+YOLOv8+%7C+OpenCV;LLMs+%7C+NLP+%7C+Intelligent+Systems;Open+to+AI+%2F+ML+%2F+GenAI+Roles+%E2%80%94+Let%27s+Build+%F0%9F%9A%80" />
 
-<h3 align="center">
-  AI & Data Science Student • Developer • Crafting my own space in Tech
-</h3>
+<br/><br/>
 
-<p align="center">
-  Exploring the space where technology meets creativity ✨
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mithra%20S.%20R.-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithra-s-r-36b40a144/)
+[![Gmail](https://img.shields.io/badge/Gmail-srmithraa%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srmithraa@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-sr--mithraa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sr-mithraa)
+[![CGPA](https://img.shields.io/badge/CGPA-8.78%20%2F%2010-7C3AED?style=for-the-badge&logo=academia&logoColor=white)](#)
+<img src="https://komarev.com/ghpvc/?username=sr-mithraa&label=Profile+Views&color=22D3EE&style=for-the-badge" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sr-mithraa&label=Profile%20Views&color=ff69b4&style=flat" />
-</p>
+<br/><br/>
+
+</div>
 
 ---
 
-## About Me
+## `$ whoami`
 
-- 🎓 B.Tech student specializing in **Artificial Intelligence & Data Science**
-- 🌱 Currently exploring **Machine Learning, Generative AI & Intelligent Systems**
-- 💻 Recently working on **creative web portfolios, AI-based projects, and modern UI experiences**
-- ✨ I enjoy blending **logic, creativity, and aesthetics** into everything I build
-- 📚 Learning through **real-world projects, experimentation, and continuous growth**
-- 📫 Reach me at   **srmithraa@gmail.com**
+```python
+class Mithra:
+    def __init__(self):
+        self.name          = "S. R. Mithra"
+        self.degree        = "B.Tech — AI & Data Science  ✅  Graduated (2022–2026)"
+        self.college       = "Mailam Engineering College, Tamil Nadu"
+        self.cgpa          = 8.78
 
----
+        self.currently     = "Deepening expertise in Generative AI 🤖"
+        self.focus_areas   = ["Generative AI", "Computer Vision", "Machine Learning", "Data Analytics"]
+        self.stack         = ["Python", "YOLOv8", "OpenCV", "LLMs", "NLTK", "spaCy", "SQL", "Power BI"]
+        self.seeking       = "AI / ML / GenAI roles — entry level or beyond 🚀"
+        self.superpower    = "Turning raw data into intelligent, real-world systems"
+        self.personality   = "Logic + Creativity + A little bit of chaos ✨"
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750547-2c7db2f5-5b8f-4d02-8f7d-6b9025d8c5b3.gif" width="100%">
-</p>
+    def say_hello(self):
+        return "Hey! I build things that see, learn, and understand. Let's connect 🚀"
 
-## ⚒️ Tech Stack
+me = Mithra()
+print(me.say_hello())
+```
 
-<p align="center">
+> *"Hey! I build things that see, learn, and understand. Let's connect 🚀"*
 
-<img src="https://img.shields.io/badge/Python-2D1B2E?style=for-the-badge&logo=python&logoColor=FFD43B" />
-
-<img src="https://img.shields.io/badge/SQL-2D1B2E?style=for-the-badge&logo=mysql&logoColor=FF6B9D" />
-
-<img src="https://img.shields.io/badge/Machine%20Learning-2D1B2E?style=for-the-badge&logo=scikitlearn&logoColor=FF9E64" />
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-2D1B2E?style=for-the-badge&logo=openai&logoColor=FFB6C1" />
-
-<img src="https://img.shields.io/badge/Generative%20AI-2D1B2E?style=for-the-badge&logo=openai&logoColor=FF4D8D" />
-
-<img src="https://img.shields.io/badge/Power%20BI-2D1B2E?style=for-the-badge&logo=powerbi&logoColor=FFD166" />
-
-<img src="https://img.shields.io/badge/MS%20Office-2D1B2E?style=for-the-badge&logo=microsoftoffice&logoColor=FF8FAB" />
-
-<img src="https://img.shields.io/badge/HTML5-2D1B2E?style=for-the-badge&logo=html5&logoColor=FF8A65" />
-
-<img src="https://img.shields.io/badge/CSS3-2D1B2E?style=for-the-badge&logo=css3&logoColor=64B5F6" />
-
-<img src="https://img.shields.io/badge/Git-2D1B2E?style=for-the-badge&logo=git&logoColor=FF7043" />
-
-<img src="https://img.shields.io/badge/GitHub-2D1B2E?style=for-the-badge&logo=github&logoColor=FFB6C1" />
-
-</p>
+<br/>
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750547-2c7db2f5-5b8f-4d02-8f7d-6b9025d8c5b3.gif" width="100%">
-</p>
+## 🧠 Tech Stack & Skills
+
+<div align="center">
+
+**Languages & Core**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**AI / Computer Vision**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**Generative AI / NLP**
+
+![LLMs](https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=for-the-badge&logo=python&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-22D3EE?style=for-the-badge&logo=openai&logoColor=black)
+
+**Data & Visualization**
+
+![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+**Tools & Platforms**
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+## 💼 Experience
+
+<details open>
+<summary><b>📊 Data Analyst Intern — Anudip Foundation</b> &nbsp;|&nbsp; <code>Jun 2025 – Jan 2026</code></summary>
+<br/>
+
+- Handled end-to-end **data collection, validation, and reporting** workflows using Excel and structured datasets
+- Ensured data integrity through systematic **cleaning and preprocessing** pipelines
+- Maintained organized records and contributed to analytics tasks that supported decision-making
+
+</details>
+
+<details open>
+<summary><b>👁️ Computer Vision Intern — YOCO Labs Pvt. Ltd., Chennai</b> &nbsp;|&nbsp; <code>Feb 2025 – May 2025</code></summary>
+<br/>
+
+- Built and contributed to **real-time video analytics** systems using **YOLOv8** and **OpenCV**
+- Handled large-scale image datasets — including preprocessing, annotation, and training pipeline setup
+- Optimized model inference for speed and accuracy in deployment-ready environments
+
+</details>
+
+<details>
+<summary><b>🤖 AI Intern — Academor, Bengaluru</b> &nbsp;|&nbsp; <code>Aug 2024 – Sep 2024</code></summary>
+<br/>
+Domain — Artificial Intelligence
+</details>
+
+<details>
+<summary><b>🧬 ML Intern — VEI Technologies Pvt. Ltd., Tindivanam</b> &nbsp;|&nbsp; <code>Mar 2024 – Apr 2024</code></summary>
+<br/>
+Domain — Machine Learning
+</details>
+
+<details>
+<summary><b>⚙️ Junior Intern — IgniteLabs Pvt. Ltd., Pondicherry</b> &nbsp;|&nbsp; <code>Mar 2024</code></summary>
+<br/>
+Domain — LabVIEW
+</details>
+
+<br/>
+
+---
+
+## 🚀 Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚗 Driver Distraction Detection System</h3>
+      <p>
+        Real-time computer vision system using <strong>YOLOv8 + OpenCV</strong> to detect driver drowsiness and inattention.
+        Includes frame-wise analysis, multi-class detection, and inference optimization for edge deployment.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤟 Sign Language Predictor</h3>
+      <p>
+        Deep learning model that translates hand gestures into text in real-time — built to improve accessibility
+        for hearing-impaired users. Focused on image data handling, augmentation, and model generalization.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧍 Posture Estimation Model</h3>
+      <p>
+        Pose estimation system that analyzes human body posture to promote ergonomic safety and workplace wellness.
+        Engineered with keypoint detection algorithms, with focus on robustness and real-world reliability.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Pose%20Estimation-7C3AED?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔍 AI Code Validator</h3>
+      <p>
+        LLM-powered code review tool that goes beyond a linter — analyzes Python code for syntax errors, logic flaws,
+        and anti-patterns, then generates natural-language fix suggestions powered by an AI model.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LLM%20%2F%20GenAI-7C3AED?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/NLP-22D3EE?style=flat-square&logo=python&logoColor=black"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌙 Nila Vei Kelu — AI Chatbot</h3>
+      <p>
+        Codeless AI chatbot built for the Cliqtrix Contest that recommends leisure activities — movies, books, and concerts.
+        Designed with structured conversation flow and strong UX logic.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/GenAI-22D3EE?style=flat-square&logo=openai&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Chatbot%20Design-F59E0B?style=flat-square&logo=chatbot&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <br/><br/>
+      <p align="center">
+        <i>More intelligent things are being built... 🛠️<br/>Stay tuned ✨</i>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+## 🏅 Certifications
+
+| | Certification | Issuer | Year |
+|---|---|---|---|
+| 🥇 | IT Specialist – Data Analytics | Certiport | Nov 2024 |
+| 🐍 | Python for Data Science | NPTEL | Jul–Aug 2023 |
+| 🔐 | Cybersecurity and Privacy | NPTEL | Jul–Oct 2024 |
+| 🛡️ | Cybersecurity for Beginners | Microsoft (Tat Strive) | Nov 2024 |
+| 🌐 | National Cyber Security Summit '24 | SMVEC College | Mar 2024 |
+
+<br/>
+
+---
+
+## 🏆 Achievements & Leadership
+
+```
+🥇  First Prize   —  Paper Presentation @ Arunai Engineering College     (Feb 2023)
+🥇  First Prize   —  Paper Presentation @ MVIT                           (Mar 2024)
+🥈  Second Prize  —  Speech Competition @ Mailam Engineering College      (May 2023)
+🌍  Attended      —  ETHGlobal 2025 Hackathon, ICCC, New Delhi            (Sep 2025)
+```
+
+**Roles & Responsibilities**
+
+- 👩‍🏫 **Educator** — Mithra Coaching Center &nbsp;*(Jun 2019 – Present)*
+- 📖 **Vice-President** — English Literary Club &nbsp;*(2023 – Present)*
+- 🎙️ **Host** — College Events & Cultural Shows &nbsp;*(2023 – Present)*
+- 📋 **Student Coordinator** — Symposium IntelInfo-2k25 &nbsp;*(Oct 2025)*
+- 🎤 **Event Organizer** — Trending Tools Orientation Workshop &nbsp;*(Sep 2024)*
+
+<br/>
+
+---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sr-mithraa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+<div align="center">
 
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sr-mithraa&theme=radical&hide_border=true&background=0D1117" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sr-mithraa&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=F0F6FC" />
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sr-mithraa&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=F0F6FC" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=sr-mithraa&theme=tokyonight&hide_border=true&background=0D1117&stroke=7C3AED&ring=22D3EE&fire=FF6B6B&currStreakLabel=22D3EE" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sr-mithraa&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=7C3AED&point=F0F6FC" />
+
+</div>
+
+<br/>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sr-mithraa&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF4D8D&line=FF6B81&point=FFC0CB" />
-</p>
+## 🤝 Let's Connect
 
----
+<div align="center">
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750547-2c7db2f5-5b8f-4d02-8f7d-6b9025d8c5b3.gif" width="100%">
-</p>
-
-## 🌐 Connect With Me
-
-<p align="center">
-
+<a href="mailto:srmithraa@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
 <a href="https://www.linkedin.com/in/mithra-s-r-36b40a144/">
-  <img src="https://img.shields.io/badge/LinkedIn-FF4D8D?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
+&nbsp;
 <a href="https://github.com/sr-mithraa">
-  <img src="https://img.shields.io/badge/GitHub-2D1B2E?style=for-the-badge&logo=github&logoColor=FFB6C1"/>
+  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</p>
+<br/><br/>
 
----
+> *"I'm actively building in the GenAI space. If you're working on something intelligent, I'd love to be part of it."*
 
-## 🌙 A Thought That Stays With Me
+<br/>
 
-<p align="center">
-  <i>
-    “Still figuring life out —
-    one idea, one project, and one late night at a time.”
-  </i>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling"/>
 
+</div>
