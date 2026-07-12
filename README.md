@@ -44,13 +44,13 @@ me = Mithra()
 print(me.say_hello())
 ```
 
-> *"Hey! I build things that see, learn, and understand. Let's connect 🚀"*
+> *"Hey! I build things that see, learn, and understand. Let's connect "*
 
 <br/>
 
 ---
 
-## 🧠 Tech Stack & Skills
+##  Tech Stack & Skills
 
 <div align="center">
 
@@ -92,7 +92,7 @@ print(me.say_hello())
 
 ---
 
-## 💼 Experience
+## Experience
 
 <details open>
 <summary><b>📊 Data Analyst Intern — Anudip Foundation</b> &nbsp;|&nbsp; <code>Jun 2025 – Jan 2026</code></summary>
@@ -136,12 +136,12 @@ Domain — LabVIEW
 
 ---
 
-## 🚀 Projects
+## Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚗 Driver Distraction Detection System</h3>
+      <h3>Driver Distraction Detection System</h3>
       <p>
         Real-time computer vision system using <strong>YOLOv8 + OpenCV</strong> to detect driver drowsiness and inattention.
         Includes frame-wise analysis, multi-class detection, and inference optimization for edge deployment.
@@ -153,7 +153,7 @@ Domain — LabVIEW
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤟 Sign Language Predictor</h3>
+      <h3>Sign Language Predictor</h3>
       <p>
         Deep learning model that translates hand gestures into text in real-time — built to improve accessibility
         for hearing-impaired users. Focused on image data handling, augmentation, and model generalization.
@@ -167,7 +167,7 @@ Domain — LabVIEW
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧍 Posture Estimation Model</h3>
+      <h3>Posture Estimation Model</h3>
       <p>
         Pose estimation system that analyzes human body posture to promote ergonomic safety and workplace wellness.
         Engineered with keypoint detection algorithms, with focus on robustness and real-world reliability.
@@ -193,7 +193,7 @@ Domain — LabVIEW
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌙 Nila Vei Kelu — AI Chatbot</h3>
+      <h3>Nila Vei Kelu — AI Chatbot</h3>
       <p>
         Codeless AI chatbot built for the Cliqtrix Contest that recommends leisure activities — movies, books, and concerts.
         Designed with structured conversation flow and strong UX logic.
@@ -216,7 +216,7 @@ Domain — LabVIEW
 
 ---
 
-## 🏅 Certifications
+##  Certifications
 
 | | Certification | Issuer | Year |
 |---|---|---|---|
@@ -230,7 +230,7 @@ Domain — LabVIEW
 
 ---
 
-## 🏆 Achievements & Leadership
+## Achievements & Leadership
 
 ```
 🥇  First Prize   —  Paper Presentation @ Arunai Engineering College     (Feb 2023)
